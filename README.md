@@ -14,6 +14,8 @@ I'm a software developer with a passion for creating meaningful and innovative p
 ## Skills
 
 - Languages: Python, JavaScript , Shell , C , HTML , CSS , Puppet , Ruby , MATRAB , M , Brainfuck , Forth
+- ![Python](https://imgur.com/nvu353x) , ![JavaScript](URL_TO_JAVASCRIPT_ICON) , ![Shell](URL_TO_SHELL_ICON) , ![C](URL_TO_C_ICON) , ![HTML](URL_TO_HTML_ICON) , ![CSS](URL_TO_CSS_ICON)
+![Puppet](URL_TO_PUPPET_ICON) , ![Ruby](https://imgur.com/a/DMmxGQv) , ![MATLAB](URL_TO_MATLAB_ICON) , ![M](URL_TO_M_ICON) , ![Brainfuck](URL_TO_BRAINFUCK_ICON) , ![Forth](URL_TO_FORTH_ICON)
 - Databases: MySQL
 - Tools: Git, VS Code
 
