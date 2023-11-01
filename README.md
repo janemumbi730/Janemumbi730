@@ -1,4 +1,4 @@
-<p style="color: red;">Hi there, I'm Jane Mumbi! 👋</p>
+# Hi there, I'm Jane Mumbi!
 
 Welcome to my GitHub profile! I'm passionate about software development and open source. Feel free to connect with me through any of these channels:
 
